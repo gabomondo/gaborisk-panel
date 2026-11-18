@@ -8,7 +8,7 @@ Parte de [gabomondo](https://gabomondo.com) · Trading sin humo.
 
 👉 **[gabomondo.com/gaborisk](https://gabomondo.com/gaborisk/)** — ahí está el manual en PDF, capturas y las instrucciones de instalación.
 
-O directo desde este repo: [Releases](https://github.com/gabomondo/gaborisk-panel/releases) → `GaboRisk-v2.0-NT8.zip`.
+O directo desde este repo: [Releases](https://github.com/gabomondo/gaborisk-panel/releases) → `GaboRisk-v2.2-NT8.zip`.
 
 ## Qué incluye
 
